@@ -1,9 +1,9 @@
 # Welcome to your Expo app 👋
-//tes
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
-
+//tes push ketiga
 1. Install dependencies
 
    ```bash
